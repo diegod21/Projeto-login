@@ -82,6 +82,9 @@ form > a.botao{
     border-radius: 5px;
     text-decoration: none;
 }
-form > a.botao{
+form > a.botao:hover{
     background-color: #65e0dc;
+}
+form > a.botao > span{
+    font-size: 0.8em;
 }
